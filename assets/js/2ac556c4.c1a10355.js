@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkriteshsonawane=self.webpackChunkriteshsonawane||[]).push([[60],{6443:e=>{e.exports=JSON.parse('{"tag":{"label":"backend","permalink":"/docs/tags/backend","allTagsPath":"/docs/tags","count":1,"items":[{"id":"backend/test","title":"HTTP/3","description":"What is HTTP/3.","permalink":"/docs/backend/aboutme"}],"unlisted":false}}')}}]);

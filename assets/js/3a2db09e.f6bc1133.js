@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkriteshsonawane=self.webpackChunkriteshsonawane||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"about me","permalink":"/blog/tags/about-me","count":1}]}')}}]);

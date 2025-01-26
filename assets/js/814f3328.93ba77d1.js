@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkriteshsonawane=self.webpackChunkriteshsonawane||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About this Section","permalink":"/blog/test","unlisted":false,"date":"2025-01-20T00:00:00.000Z"}]}')}}]);

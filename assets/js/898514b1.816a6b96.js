@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkriteshsonawane=self.webpackChunkriteshsonawane||[]).push([[67],{9187:e=>{e.exports=JSON.parse('{"tags":[{"label":"backend","permalink":"/docs/tags/backend","count":1},{"label":"networking","permalink":"/docs/tags/networking","count":1},{"label":"about me","permalink":"/docs/tags/about-me","count":1}]}')}}]);

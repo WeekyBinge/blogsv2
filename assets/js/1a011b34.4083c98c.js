@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkriteshsonawane=self.webpackChunkriteshsonawane||[]).push([[48],{2149:e=>{e.exports=JSON.parse('{"tag":{"label":"networking","permalink":"/docs/tags/networking","allTagsPath":"/docs/tags","count":1,"items":[{"id":"backend/test","title":"HTTP/3","description":"What is HTTP/3.","permalink":"/docs/backend/aboutme"}],"unlisted":false}}')}}]);
