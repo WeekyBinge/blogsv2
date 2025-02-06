@@ -1,7 +1,7 @@
 ---
 title: HTTP/3
 description: What is HTTP/3.
-slug: aboutme
+slug: http3
 authors:
   - name: Ritesh Sonawane
     title: Associate SRE @CloudRaft ⛵
